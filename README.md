@@ -60,7 +60,6 @@ God Mode, Auto-Parry, Infinite Sha-Chi, and 50+ toggleable options. Steam compat
 - **Undetected:** Works seamlessly with the latest Steam patch.
 - **Stream-Proof:** The overlay is hidden in OBS/Discord streams.
 
-> *Disclaimer: This software is provided for educational purposes only. Use at your own risk.*
 
 <br>
 
