@@ -9,7 +9,7 @@
 
 **Unlock the full potential of Phantom Blade Zero.**
 God Mode, Auto-Parry, Infinite Sha-Chi, and 50+ toggleable options. Steam compatible.
-
+ 
 </div>
 
 ---
